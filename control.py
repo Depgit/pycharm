@@ -1,3 +1,5 @@
+# go to keylogger.py file and log.txt for text to input
+
 from pynput.mouse import Controller
 from pynput.keyboard import Controller
 from pynput.mouse import Listener
